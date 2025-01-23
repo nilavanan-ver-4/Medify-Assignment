@@ -14,8 +14,8 @@ Ensure you have the following installed on your machine:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/nilavanan-ver-4/Medify-Assignment.git
+cd Medify-Assignment
 ```
 
 ### Build the Docker Image
