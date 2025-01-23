@@ -93,4 +93,4 @@ For any questions or feedback, feel free to reach out:
 
 ---
 
-### ⭐️ **Thank You for Exploring the Medify Assignment!**
+### ⭐️ **Thank You for Exploring the Assignment!**
