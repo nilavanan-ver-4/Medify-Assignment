@@ -17,6 +17,9 @@ COPY code.py ./
 RUN pip install google-generativeai 
 RUN pip install google
 
+# Expose a port 
+EXPOSE 5000
+
 # CMD instruction should be used to run the software
 # contained by your image, along with any arguments.
 CMD [ "python", "./code.py" ]
